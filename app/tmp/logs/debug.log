@@ -1,0 +1,2399 @@
+2015-11-22 09:45:38 Debug: Notice (8): Undefined variable: id in [C:\xampp\htdocs\ligamio\app\Controller\PrediosController.php, line 121]
+Trace:
+PrediosController::lista_provincias() - APP\Controller\PrediosController.php, line 121
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 09:46:48 Debug: Notice (8): Undefined variable: id in [C:\xampp\htdocs\ligamio\app\Controller\PrediosController.php, line 121]
+Trace:
+PrediosController::lista_provincias() - APP\Controller\PrediosController.php, line 121
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 09:46:51 Debug: Notice (8): Undefined variable: id in [C:\xampp\htdocs\ligamio\app\Controller\PrediosController.php, line 121]
+Trace:
+PrediosController::lista_provincias() - APP\Controller\PrediosController.php, line 121
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 09:47:54 Debug: Notice (8): Undefined variable: id in [C:\xampp\htdocs\ligamio\app\Controller\PrediosController.php, line 121]
+Trace:
+PrediosController::lista_provincias() - APP\Controller\PrediosController.php, line 121
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 09:51:41 Debug: Notice (8): Undefined variable: id in [C:\xampp\htdocs\ligamio\app\Controller\PrediosController.php, line 121]
+Trace:
+PrediosController::lista_provincias() - APP\Controller\PrediosController.php, line 121
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 09:55:09 Debug: Notice (8): Undefined variable: id in [C:\xampp\htdocs\ligamio\app\Controller\PrediosController.php, line 121]
+Trace:
+PrediosController::lista_provincias() - APP\Controller\PrediosController.php, line 121
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 09:56:54 Debug: Notice (8): Undefined variable: id in [C:\xampp\htdocs\ligamio\app\Controller\PrediosController.php, line 121]
+Trace:
+PrediosController::lista_provincias() - APP\Controller\PrediosController.php, line 121
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 10:05:04 Debug: Notice (8): Undefined variable: id in [C:\xampp\htdocs\ligamio\app\Controller\PrediosController.php, line 122]
+Trace:
+PrediosController::lista_provincias() - APP\Controller\PrediosController.php, line 122
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 10:07:33 Debug: Notice (8): Undefined variable: id in [C:\xampp\htdocs\ligamio\app\Controller\PrediosController.php, line 122]
+Trace:
+PrediosController::lista_provincias() - APP\Controller\PrediosController.php, line 122
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 10:13:24 Debug: Notice (8): Undefined variable: id in [C:\xampp\htdocs\ligamio\app\Controller\PrediosController.php, line 122]
+Trace:
+PrediosController::lista_provincias() - APP\Controller\PrediosController.php, line 122
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 10:42:26 Debug: Notice (8): Undefined variable: id in [C:\xampp\htdocs\ligamio\app\Controller\PrediosController.php, line 122]
+Trace:
+PrediosController::lista_provincias() - APP\Controller\PrediosController.php, line 122
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 11:00:45 Debug: Notice (8): Undefined variable: id in [C:\xampp\htdocs\ligamio\app\Controller\PrediosController.php, line 122]
+Trace:
+PrediosController::lista_provincias() - APP\Controller\PrediosController.php, line 122
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 11:01:02 Debug: Notice (8): Undefined variable: id in [C:\xampp\htdocs\ligamio\app\Controller\PrediosController.php, line 129]
+Trace:
+PrediosController::lista_departamentos() - APP\Controller\PrediosController.php, line 129
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 11:23:49 Debug: Notice (8): Undefined variable: params in [C:\xampp\htdocs\ligamio\app\Controller\PrediosController.php, line 123]
+Trace:
+PrediosController::lista_provincias() - APP\Controller\PrediosController.php, line 123
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 11:33:04 Debug: Notice (8): Undefined variable: params in [C:\xampp\htdocs\ligamio\app\Controller\PrediosController.php, line 123]
+Trace:
+PrediosController::lista_provincias() - APP\Controller\PrediosController.php, line 123
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 11:33:15 Debug: Notice (8): Undefined variable: params in [C:\xampp\htdocs\ligamio\app\Controller\PrediosController.php, line 123]
+Trace:
+PrediosController::lista_provincias() - APP\Controller\PrediosController.php, line 123
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 11:37:43 Debug: Notice (8): Undefined variable: params in [C:\xampp\htdocs\ligamio\app\Controller\PrediosController.php, line 123]
+Trace:
+PrediosController::lista_provincias() - APP\Controller\PrediosController.php, line 123
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 11:38:27 Debug: Notice (8): Undefined variable: params in [C:\xampp\htdocs\ligamio\app\Controller\PrediosController.php, line 123]
+Trace:
+PrediosController::lista_provincias() - APP\Controller\PrediosController.php, line 123
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 11:38:33 Debug: Notice (8): Undefined variable: params in [C:\xampp\htdocs\ligamio\app\Controller\PrediosController.php, line 123]
+Trace:
+PrediosController::lista_provincias() - APP\Controller\PrediosController.php, line 123
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 11:39:03 Debug: Notice (8): Undefined variable: params in [C:\xampp\htdocs\ligamio\app\Controller\PrediosController.php, line 123]
+Trace:
+PrediosController::lista_provincias() - APP\Controller\PrediosController.php, line 123
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 11:39:05 Debug: Notice (8): Undefined variable: params in [C:\xampp\htdocs\ligamio\app\Controller\PrediosController.php, line 123]
+Trace:
+PrediosController::lista_provincias() - APP\Controller\PrediosController.php, line 123
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 11:39:07 Debug: Notice (8): Undefined variable: params in [C:\xampp\htdocs\ligamio\app\Controller\PrediosController.php, line 123]
+Trace:
+PrediosController::lista_provincias() - APP\Controller\PrediosController.php, line 123
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 11:40:01 Debug: Notice (8): Undefined variable: params in [C:\xampp\htdocs\ligamio\app\Controller\PrediosController.php, line 123]
+Trace:
+PrediosController::lista_provincias() - APP\Controller\PrediosController.php, line 123
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 11:44:48 Debug: Notice (8): Undefined variable: params in [C:\xampp\htdocs\ligamio\app\Controller\PrediosController.php, line 123]
+Trace:
+PrediosController::listaprovincias() - APP\Controller\PrediosController.php, line 123
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 11:46:34 Debug: Notice (8): Undefined variable: params in [C:\xampp\htdocs\ligamio\app\Controller\PrediosController.php, line 123]
+Trace:
+PrediosController::listaprovincias() - APP\Controller\PrediosController.php, line 123
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 11:47:25 Debug: Notice (8): Undefined variable: params in [C:\xampp\htdocs\ligamio\app\Controller\PrediosController.php, line 123]
+Trace:
+PrediosController::listaprovincias() - APP\Controller\PrediosController.php, line 123
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 11:47:26 Debug: Notice (8): Undefined variable: params in [C:\xampp\htdocs\ligamio\app\Controller\PrediosController.php, line 123]
+Trace:
+PrediosController::listaprovincias() - APP\Controller\PrediosController.php, line 123
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 11:47:32 Debug: Notice (8): Undefined variable: params in [C:\xampp\htdocs\ligamio\app\Controller\PrediosController.php, line 123]
+Trace:
+PrediosController::listaprovincias() - APP\Controller\PrediosController.php, line 123
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 12:37:03 Debug: Notice (8): Undefined variable: params in [C:\xampp\htdocs\ligamio\app\Controller\PrediosController.php, line 126]
+Trace:
+PrediosController::listaprovincias() - APP\Controller\PrediosController.php, line 126
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 12:41:47 Debug: Notice (8): Undefined variable: params in [C:\xampp\htdocs\ligamio\app\Controller\PrediosController.php, line 126]
+Trace:
+PrediosController::listaprovincias() - APP\Controller\PrediosController.php, line 126
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 12:41:47 Debug: Notice (8): Undefined variable: listaprovincias in [C:\xampp\htdocs\ligamio\app\View\Predios\listaprovincias.ctp, line 2]
+Trace:
+include - APP\View\Predios\listaprovincias.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 12:42:40 Debug: Notice (8): Undefined variable: params in [C:\xampp\htdocs\ligamio\app\Controller\PrediosController.php, line 126]
+Trace:
+PrediosController::listaprovincias() - APP\Controller\PrediosController.php, line 126
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 12:42:40 Debug: Notice (8): Undefined variable: listaprovincias in [C:\xampp\htdocs\ligamio\app\View\Predios\listaprovincias.ctp, line 2]
+Trace:
+include - APP\View\Predios\listaprovincias.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 12:42:46 Debug: Notice (8): Undefined variable: params in [C:\xampp\htdocs\ligamio\app\Controller\PrediosController.php, line 126]
+Trace:
+PrediosController::listaprovincias() - APP\Controller\PrediosController.php, line 126
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 12:42:46 Debug: Notice (8): Undefined variable: listaprovincias in [C:\xampp\htdocs\ligamio\app\View\Predios\listaprovincias.ctp, line 2]
+Trace:
+include - APP\View\Predios\listaprovincias.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 12:44:39 Debug: Notice (8): Undefined variable: params in [C:\xampp\htdocs\ligamio\app\Controller\PrediosController.php, line 126]
+Trace:
+PrediosController::listaprovincias() - APP\Controller\PrediosController.php, line 126
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 12:44:39 Debug: Notice (8): Undefined variable: listaprovincias in [C:\xampp\htdocs\ligamio\app\View\Predios\listaprovincias.ctp, line 2]
+Trace:
+include - APP\View\Predios\listaprovincias.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 12:45:15 Debug: Notice (8): Undefined variable: params in [C:\xampp\htdocs\ligamio\app\Controller\PrediosController.php, line 126]
+Trace:
+PrediosController::listaprovincias() - APP\Controller\PrediosController.php, line 126
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 12:45:16 Debug: Notice (8): Undefined variable: listaprovincias in [C:\xampp\htdocs\ligamio\app\View\Predios\listaprovincias.ctp, line 2]
+Trace:
+include - APP\View\Predios\listaprovincias.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 12:45:20 Debug: Notice (8): Undefined variable: params in [C:\xampp\htdocs\ligamio\app\Controller\PrediosController.php, line 126]
+Trace:
+PrediosController::listaprovincias() - APP\Controller\PrediosController.php, line 126
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 12:45:20 Debug: Notice (8): Undefined variable: listaprovincias in [C:\xampp\htdocs\ligamio\app\View\Predios\listaprovincias.ctp, line 2]
+Trace:
+include - APP\View\Predios\listaprovincias.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 12:48:21 Debug: Notice (8): Undefined variable: params in [C:\xampp\htdocs\ligamio\app\Controller\PrediosController.php, line 126]
+Trace:
+PrediosController::listaprovincias() - APP\Controller\PrediosController.php, line 126
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 12:48:21 Debug: Notice (8): Undefined variable: listaprovincias in [C:\xampp\htdocs\ligamio\app\View\Predios\listaprovincias.ctp, line 2]
+Trace:
+include - APP\View\Predios\listaprovincias.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 12:48:24 Debug: Notice (8): Undefined variable: params in [C:\xampp\htdocs\ligamio\app\Controller\PrediosController.php, line 126]
+Trace:
+PrediosController::listaprovincias() - APP\Controller\PrediosController.php, line 126
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 12:48:24 Debug: Notice (8): Undefined variable: listaprovincias in [C:\xampp\htdocs\ligamio\app\View\Predios\listaprovincias.ctp, line 2]
+Trace:
+include - APP\View\Predios\listaprovincias.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 12:49:42 Debug: Notice (8): Undefined variable: params in [C:\xampp\htdocs\ligamio\app\Controller\PrediosController.php, line 126]
+Trace:
+PrediosController::listaprovincias() - APP\Controller\PrediosController.php, line 126
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 12:49:42 Debug: Notice (8): Undefined variable: listaprovincias in [C:\xampp\htdocs\ligamio\app\View\Predios\listaprovincias.ctp, line 2]
+Trace:
+include - APP\View\Predios\listaprovincias.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 12:51:09 Debug: Notice (8): Undefined variable: params in [C:\xampp\htdocs\ligamio\app\Controller\PrediosController.php, line 126]
+Trace:
+PrediosController::listaprovincias() - APP\Controller\PrediosController.php, line 126
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 12:51:09 Debug: Notice (8): Undefined variable: listaprovincias in [C:\xampp\htdocs\ligamio\app\View\Predios\listaprovincias.ctp, line 2]
+Trace:
+include - APP\View\Predios\listaprovincias.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 12:51:12 Debug: Notice (8): Undefined variable: params in [C:\xampp\htdocs\ligamio\app\Controller\PrediosController.php, line 126]
+Trace:
+PrediosController::listaprovincias() - APP\Controller\PrediosController.php, line 126
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 12:51:12 Debug: Notice (8): Undefined variable: listaprovincias in [C:\xampp\htdocs\ligamio\app\View\Predios\listaprovincias.ctp, line 2]
+Trace:
+include - APP\View\Predios\listaprovincias.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 12:57:00 Debug: Notice (8): Undefined variable: params in [C:\xampp\htdocs\ligamio\app\Controller\PrediosController.php, line 126]
+Trace:
+PrediosController::listaprovincias() - APP\Controller\PrediosController.php, line 126
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 12:57:00 Debug: Notice (8): Undefined variable: listaprovincias in [C:\xampp\htdocs\ligamio\app\View\Predios\listaprovincias.ctp, line 2]
+Trace:
+include - APP\View\Predios\listaprovincias.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:00:46 Debug: Notice (8): Undefined variable: listaprovincias in [C:\xampp\htdocs\ligamio\app\View\Predios\listaprovincias.ctp, line 2]
+Trace:
+include - APP\View\Predios\listaprovincias.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:02:32 Debug: Notice (8): Undefined variable: listaprovincias in [C:\xampp\htdocs\ligamio\app\View\Predios\listaprovincias.ctp, line 2]
+Trace:
+include - APP\View\Predios\listaprovincias.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:02:35 Debug: Notice (8): Undefined variable: listaprovincias in [C:\xampp\htdocs\ligamio\app\View\Predios\listaprovincias.ctp, line 2]
+Trace:
+include - APP\View\Predios\listaprovincias.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:04:47 Debug: Notice (8): Undefined variable: listaprovincias in [C:\xampp\htdocs\ligamio\app\View\Predios\listaprovincias.ctp, line 2]
+Trace:
+include - APP\View\Predios\listaprovincias.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:04:48 Debug: Notice (8): Undefined variable: listadepartamentos in [C:\xampp\htdocs\ligamio\app\View\Predios\listadepartamentos.ctp, line 2]
+Trace:
+include - APP\View\Predios\listadepartamentos.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:04:49 Debug: Notice (8): Undefined variable: listadepartamentos in [C:\xampp\htdocs\ligamio\app\View\Predios\listadepartamentos.ctp, line 2]
+Trace:
+include - APP\View\Predios\listadepartamentos.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:13:25 Debug: Notice (8): Undefined variable: listaprovincias in [C:\xampp\htdocs\ligamio\app\View\Predios\listaprovincias.ctp, line 2]
+Trace:
+include - APP\View\Predios\listaprovincias.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:13:26 Debug: Notice (8): Undefined variable: listadepartamentos in [C:\xampp\htdocs\ligamio\app\View\Predios\listadepartamentos.ctp, line 2]
+Trace:
+include - APP\View\Predios\listadepartamentos.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:13:28 Debug: Notice (8): Undefined variable: listadepartamentos in [C:\xampp\htdocs\ligamio\app\View\Predios\listadepartamentos.ctp, line 2]
+Trace:
+include - APP\View\Predios\listadepartamentos.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:13:29 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:13:31 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:13:34 Debug: Notice (8): Undefined variable: listadepartamentos in [C:\xampp\htdocs\ligamio\app\View\Predios\listadepartamentos.ctp, line 2]
+Trace:
+include - APP\View\Predios\listadepartamentos.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:13:36 Debug: Notice (8): Undefined variable: listadepartamentos in [C:\xampp\htdocs\ligamio\app\View\Predios\listadepartamentos.ctp, line 2]
+Trace:
+include - APP\View\Predios\listadepartamentos.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:13:37 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:13:38 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:14:33 Debug: Notice (8): Undefined variable: listaprovincias in [C:\xampp\htdocs\ligamio\app\View\Predios\listaprovincias.ctp, line 2]
+Trace:
+include - APP\View\Predios\listaprovincias.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:14:34 Debug: Notice (8): Undefined variable: listadepartamentos in [C:\xampp\htdocs\ligamio\app\View\Predios\listadepartamentos.ctp, line 2]
+Trace:
+include - APP\View\Predios\listadepartamentos.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:14:35 Debug: Notice (8): Undefined variable: listadepartamentos in [C:\xampp\htdocs\ligamio\app\View\Predios\listadepartamentos.ctp, line 2]
+Trace:
+include - APP\View\Predios\listadepartamentos.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:14:36 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:14:38 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:19:07 Debug: Notice (8): Undefined variable: listaprovincias in [C:\xampp\htdocs\ligamio\app\View\Predios\listaprovincias.ctp, line 2]
+Trace:
+include - APP\View\Predios\listaprovincias.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:19:10 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:19:11 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:19:12 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:19:54 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:19:55 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:19:56 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:19:57 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:19:58 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:19:58 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:19:58 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:20:01 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:20:01 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:20:03 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:20:04 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:20:05 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:20:05 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:22:32 Debug: Notice (8): Undefined variable: listaprovincias in [C:\xampp\htdocs\ligamio\app\View\Predios\listaprovincias.ctp, line 2]
+Trace:
+include - APP\View\Predios\listaprovincias.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:22:33 Debug: Notice (8): Undefined variable: listadepartamentos in [C:\xampp\htdocs\ligamio\app\View\Predios\listadepartamentos.ctp, line 2]
+Trace:
+include - APP\View\Predios\listadepartamentos.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:22:36 Debug: Notice (8): Undefined variable: listadepartamentos in [C:\xampp\htdocs\ligamio\app\View\Predios\listadepartamentos.ctp, line 2]
+Trace:
+include - APP\View\Predios\listadepartamentos.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:22:37 Debug: Notice (8): Undefined variable: listadepartamentos in [C:\xampp\htdocs\ligamio\app\View\Predios\listadepartamentos.ctp, line 2]
+Trace:
+include - APP\View\Predios\listadepartamentos.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:22:37 Debug: Notice (8): Undefined variable: listadepartamentos in [C:\xampp\htdocs\ligamio\app\View\Predios\listadepartamentos.ctp, line 2]
+Trace:
+include - APP\View\Predios\listadepartamentos.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:22:38 Debug: Notice (8): Undefined variable: listadepartamentos in [C:\xampp\htdocs\ligamio\app\View\Predios\listadepartamentos.ctp, line 2]
+Trace:
+include - APP\View\Predios\listadepartamentos.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:22:40 Debug: Notice (8): Undefined variable: listadepartamentos in [C:\xampp\htdocs\ligamio\app\View\Predios\listadepartamentos.ctp, line 2]
+Trace:
+include - APP\View\Predios\listadepartamentos.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:22:53 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:22:58 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:23:00 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:23:02 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:23:03 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:23:05 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:23:07 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:23:13 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:23:15 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:24:15 Debug: Notice (8): Undefined variable: listadepartamentos in [C:\xampp\htdocs\ligamio\app\View\Predios\listadepartamentos.ctp, line 2]
+Trace:
+include - APP\View\Predios\listadepartamentos.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:24:19 Debug: Notice (8): Undefined variable: listadepartamentos in [C:\xampp\htdocs\ligamio\app\View\Predios\listadepartamentos.ctp, line 2]
+Trace:
+include - APP\View\Predios\listadepartamentos.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:24:21 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:24:23 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:24:27 Debug: Notice (8): Undefined variable: listadepartamentos in [C:\xampp\htdocs\ligamio\app\View\Predios\listadepartamentos.ctp, line 2]
+Trace:
+include - APP\View\Predios\listadepartamentos.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:24:29 Debug: Notice (8): Undefined variable: listadepartamentos in [C:\xampp\htdocs\ligamio\app\View\Predios\listadepartamentos.ctp, line 2]
+Trace:
+include - APP\View\Predios\listadepartamentos.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:24:30 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:24:32 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:27:06 Debug: Notice (8): Undefined variable: listadepartamentos in [C:\xampp\htdocs\ligamio\app\View\Predios\listadepartamentos.ctp, line 2]
+Trace:
+include - APP\View\Predios\listadepartamentos.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:27:10 Debug: Notice (8): Undefined variable: listadepartamentos in [C:\xampp\htdocs\ligamio\app\View\Predios\listadepartamentos.ctp, line 2]
+Trace:
+include - APP\View\Predios\listadepartamentos.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:27:12 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:27:15 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:42:44 Debug: Notice (8): Undefined variable: listaprovincias in [C:\xampp\htdocs\ligamio\app\View\Predios\listaprovincias.ctp, line 2]
+Trace:
+include - APP\View\Predios\listaprovincias.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:42:46 Debug: Notice (8): Undefined variable: listadepartamentos in [C:\xampp\htdocs\ligamio\app\View\Predios\listadepartamentos.ctp, line 2]
+Trace:
+include - APP\View\Predios\listadepartamentos.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:42:48 Debug: Notice (8): Undefined variable: listadepartamentos in [C:\xampp\htdocs\ligamio\app\View\Predios\listadepartamentos.ctp, line 2]
+Trace:
+include - APP\View\Predios\listadepartamentos.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:42:49 Debug: Notice (8): Undefined variable: listadepartamentos in [C:\xampp\htdocs\ligamio\app\View\Predios\listadepartamentos.ctp, line 2]
+Trace:
+include - APP\View\Predios\listadepartamentos.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:42:50 Debug: Notice (8): Undefined variable: listadepartamentos in [C:\xampp\htdocs\ligamio\app\View\Predios\listadepartamentos.ctp, line 2]
+Trace:
+include - APP\View\Predios\listadepartamentos.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:42:51 Debug: Notice (8): Undefined variable: listadepartamentos in [C:\xampp\htdocs\ligamio\app\View\Predios\listadepartamentos.ctp, line 2]
+Trace:
+include - APP\View\Predios\listadepartamentos.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:42:54 Debug: Notice (8): Undefined variable: listadepartamentos in [C:\xampp\htdocs\ligamio\app\View\Predios\listadepartamentos.ctp, line 2]
+Trace:
+include - APP\View\Predios\listadepartamentos.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:42:56 Debug: Notice (8): Undefined variable: listadepartamentos in [C:\xampp\htdocs\ligamio\app\View\Predios\listadepartamentos.ctp, line 2]
+Trace:
+include - APP\View\Predios\listadepartamentos.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:42:57 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:42:57 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:42:57 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:42:58 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:42:58 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:42:59 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:45:04 Debug: Notice (8): Undefined variable: listaprovincias in [C:\xampp\htdocs\ligamio\app\View\Predios\listaprovincias.ctp, line 2]
+Trace:
+include - APP\View\Predios\listaprovincias.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:45:05 Debug: Notice (8): Undefined variable: listadepartamentos in [C:\xampp\htdocs\ligamio\app\View\Predios\listadepartamentos.ctp, line 2]
+Trace:
+include - APP\View\Predios\listadepartamentos.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:45:07 Debug: Notice (8): Undefined variable: listadepartamentos in [C:\xampp\htdocs\ligamio\app\View\Predios\listadepartamentos.ctp, line 2]
+Trace:
+include - APP\View\Predios\listadepartamentos.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:45:08 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:45:09 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:45:11 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:45:12 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:45:15 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:45:16 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:55:32 Debug: Notice (8): Undefined variable: listadepartamentos in [C:\xampp\htdocs\ligamio\app\View\Predios\listadepartamentos.ctp, line 2]
+Trace:
+include - APP\View\Predios\listadepartamentos.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:55:36 Debug: Notice (8): Undefined variable: listadepartamentos in [C:\xampp\htdocs\ligamio\app\View\Predios\listadepartamentos.ctp, line 2]
+Trace:
+include - APP\View\Predios\listadepartamentos.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:55:38 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:55:42 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 13:55:45 Debug: Notice (8): Undefined variable: listadepartamentos in [C:\xampp\htdocs\ligamio\app\View\Predios\listadepartamentos.ctp, line 2]
+Trace:
+include - APP\View\Predios\listadepartamentos.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 14:01:48 Debug: Notice (8): Undefined variable: listaprovincias in [C:\xampp\htdocs\ligamio\app\View\Predios\listaprovincias.ctp, line 2]
+Trace:
+include - APP\View\Predios\listaprovincias.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 14:01:50 Debug: Notice (8): Undefined variable: listadepartamentos in [C:\xampp\htdocs\ligamio\app\View\Predios\listadepartamentos.ctp, line 2]
+Trace:
+include - APP\View\Predios\listadepartamentos.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 14:01:51 Debug: Notice (8): Undefined variable: listadepartamentos in [C:\xampp\htdocs\ligamio\app\View\Predios\listadepartamentos.ctp, line 2]
+Trace:
+include - APP\View\Predios\listadepartamentos.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 14:01:52 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 14:01:53 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 14:04:17 Debug: Notice (8): Undefined variable: listaprovincias in [C:\xampp\htdocs\ligamio\app\View\Predios\listaprovincias.ctp, line 2]
+Trace:
+include - APP\View\Predios\listaprovincias.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 14:04:20 Debug: Notice (8): Undefined variable: listaprovincias in [C:\xampp\htdocs\ligamio\app\View\Predios\listaprovincias.ctp, line 2]
+Trace:
+include - APP\View\Predios\listaprovincias.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 14:04:21 Debug: Notice (8): Undefined variable: listadepartamentos in [C:\xampp\htdocs\ligamio\app\View\Predios\listadepartamentos.ctp, line 2]
+Trace:
+include - APP\View\Predios\listadepartamentos.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 14:04:22 Debug: Notice (8): Undefined variable: listadepartamentos in [C:\xampp\htdocs\ligamio\app\View\Predios\listadepartamentos.ctp, line 2]
+Trace:
+include - APP\View\Predios\listadepartamentos.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 14:04:22 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 14:04:23 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 14:04:25 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 14:04:26 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 14:05:04 Debug: Notice (8): Undefined variable: listadepartamentos in [C:\xampp\htdocs\ligamio\app\View\Predios\listadepartamentos.ctp, line 2]
+Trace:
+include - APP\View\Predios\listadepartamentos.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 14:05:05 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 14:05:08 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 14:05:08 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 14:05:09 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 14:05:11 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 14:05:12 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 14:05:12 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 14:05:13 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 14:05:13 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 14:05:13 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 14:05:13 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-22 14:05:14 Debug: Notice (8): Undefined variable: listalocalidades in [C:\xampp\htdocs\ligamio\app\View\Predios\listalocalidades.ctp, line 2]
+Trace:
+include - APP\View\Predios\listalocalidades.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-23 02:42:19 Debug: Notice (8): Undefined variable: provincias in [C:\xampp\htdocs\ligamio\app\View\Predios\listaprovincias.ctp, line 2]
+Trace:
+include - APP\View\Predios\listaprovincias.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-11-23 02:42:42 Debug: Notice (8): Undefined variable: provincias in [C:\xampp\htdocs\ligamio\app\View\Predios\listaprovincias.ctp, line 2]
+Trace:
+include - APP\View\Predios\listaprovincias.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-12-06 16:26:47 Debug: Notice (8): Undefined variable: lista_provincias in [C:\xampp\htdocs\ligamio\app\View\Personas\listaprovincias.ctp, line 2]
+Trace:
+include - APP\View\Personas\listaprovincias.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-12-06 16:27:07 Debug: Notice (8): Undefined variable: lista_provincias in [C:\xampp\htdocs\ligamio\app\View\Personas\listaprovincias.ctp, line 2]
+Trace:
+include - APP\View\Personas\listaprovincias.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-12-06 16:40:53 Debug: Notice (8): Undefined variable: lista_provincias in [C:\xampp\htdocs\ligamio\app\View\Predios\listaprovincias.ctp, line 2]
+Trace:
+include - APP\View\Predios\listaprovincias.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-12-06 16:41:49 Debug: Notice (8): Undefined variable: lista_provincias in [C:\xampp\htdocs\ligamio\app\View\Predios\listaprovincias.ctp, line 2]
+Trace:
+include - APP\View\Predios\listaprovincias.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-12-06 16:41:54 Debug: Notice (8): Undefined variable: lista_provincias in [C:\xampp\htdocs\ligamio\app\View\Predios\listaprovincias.ctp, line 2]
+Trace:
+include - APP\View\Predios\listaprovincias.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-12-06 16:42:00 Debug: Notice (8): Undefined variable: lista_provincias in [C:\xampp\htdocs\ligamio\app\View\Predios\listaprovincias.ctp, line 2]
+Trace:
+include - APP\View\Predios\listaprovincias.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-12-06 16:42:10 Debug: Notice (8): Undefined variable: lista_departamentos in [C:\xampp\htdocs\ligamio\app\View\Predios\listadepartamentos.ctp, line 2]
+Trace:
+include - APP\View\Predios\listadepartamentos.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-12-06 16:42:14 Debug: Notice (8): Undefined variable: lista_departamentos in [C:\xampp\htdocs\ligamio\app\View\Predios\listadepartamentos.ctp, line 2]
+Trace:
+include - APP\View\Predios\listadepartamentos.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2015-12-06 16:42:28 Debug: Notice (8): Undefined variable: lista_provincias in [C:\xampp\htdocs\ligamio\app\View\Predios\listaprovincias.ctp, line 2]
+Trace:
+include - APP\View\Predios\listaprovincias.ctp, line 2
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2016-04-04 08:02:12 Debug: Notice (8): Undefined variable: id in [C:\xampp\htdocs\ligamio\app\Controller\PrediosController.php, line 134]
+Trace:
+PrediosController::listaprovincias() - APP\Controller\PrediosController.php, line 134
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2016-05-28 11:05:23 Debug: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\ligamio\app\Controller\PersonasController.php, line 173]
+Trace:
+PersonasController::listalocalidades() - APP\Controller\PersonasController.php, line 173
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2016-05-28 11:05:25 Debug: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\ligamio\app\Controller\PersonasController.php, line 173]
+Trace:
+PersonasController::listalocalidades() - APP\Controller\PersonasController.php, line 173
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2016-05-28 11:06:31 Debug: Notice (8): Undefined variable: lista_localidades in [C:\xampp\htdocs\ligamio\app\View\Personas\listalocalidades.ctp, line 3]
+Trace:
+include - APP\View\Personas\listalocalidades.ctp, line 3
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2016-05-28 11:10:20 Debug: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\ligamio\app\Controller\PersonasController.php, line 173]
+Trace:
+PersonasController::listalocalidades() - APP\Controller\PersonasController.php, line 173
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2016-05-28 11:10:24 Debug: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\ligamio\app\Controller\PersonasController.php, line 173]
+Trace:
+PersonasController::listalocalidades() - APP\Controller\PersonasController.php, line 173
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2016-05-28 11:14:00 Debug: Notice (8): Undefined variable: lista_localidades in [C:\xampp\htdocs\ligamio\app\View\Personas\listalocalidades.ctp, line 3]
+Trace:
+include - APP\View\Personas\listalocalidades.ctp, line 3
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2016-05-28 11:14:30 Debug: Notice (8): Undefined variable: lista_localidades in [C:\xampp\htdocs\ligamio\app\View\Personas\listalocalidades.ctp, line 3]
+Trace:
+include - APP\View\Personas\listalocalidades.ctp, line 3
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2016-05-28 11:20:50 Debug: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\ligamio\app\Controller\PersonasController.php, line 173]
+Trace:
+PersonasController::listalocalidades() - APP\Controller\PersonasController.php, line 173
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2016-05-28 11:20:52 Debug: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\ligamio\app\Controller\PersonasController.php, line 173]
+Trace:
+PersonasController::listalocalidades() - APP\Controller\PersonasController.php, line 173
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2016-05-28 11:20:55 Debug: Notice (8): Trying to get property of non-object in [C:\xampp\htdocs\ligamio\app\Controller\PersonasController.php, line 173]
+Trace:
+PersonasController::listalocalidades() - APP\Controller\PersonasController.php, line 173
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2016-05-28 11:27:41 Debug: Notice (8): Undefined variable: lista_localidades in [C:\xampp\htdocs\ligamio\app\View\Personas\listalocalidades.ctp, line 3]
+Trace:
+include - APP\View\Personas\listalocalidades.ctp, line 3
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2016-05-28 11:27:56 Debug: Notice (8): Undefined variable: lista_localidades in [C:\xampp\htdocs\ligamio\app\View\Personas\listalocalidades.ctp, line 3]
+Trace:
+include - APP\View\Personas\listalocalidades.ctp, line 3
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2016-05-28 11:32:42 Debug: Notice (8): Undefined variable: lista_provincias in [C:\xampp\htdocs\ligamio\app\View\Personas\listaprovincias.ctp, line 3]
+Trace:
+include - APP\View\Personas\listaprovincias.ctp, line 3
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2016-05-28 11:32:57 Debug: Notice (8): Undefined variable: lista_provincias in [C:\xampp\htdocs\ligamio\app\View\Personas\listaprovincias.ctp, line 3]
+Trace:
+include - APP\View\Personas\listaprovincias.ctp, line 3
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2016-05-30 00:53:54 Debug: Notice (8): Undefined variable: lista_localidades in [C:\xampp\htdocs\ligamio\app\View\Personas\listalocalidades.ctp, line 3]
+Trace:
+include - APP\View\Personas\listalocalidades.ctp, line 3
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2016-05-30 05:40:42 Debug: Notice (8): Undefined index: data in [C:\xampp\htdocs\ligamio\app\Controller\JugadoresController.php, line 257]
+Trace:
+JugadoresController::listaprovincias() - APP\Controller\JugadoresController.php, line 257
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2016-05-30 05:40:42 Debug: Notice (8): Undefined variable: lista_provincias in [C:\xampp\htdocs\ligamio\app\View\Jugadores\listaprovincias.ctp, line 1]
+Trace:
+include - APP\View\Jugadores\listaprovincias.ctp, line 1
+View::_evaluate() - CORE\Cake\View\View.php, line 961
+View::_render() - CORE\Cake\View\View.php, line 923
+View::render() - CORE\Cake\View\View.php, line 473
+Controller::render() - CORE\Cake\Controller\Controller.php, line 960
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2016-06-11 15:17:55 Debug: Notice (8): Undefined variable: id in [C:\xampp\htdocs\ligamio\app\Controller\PersonasController.php, line 164]
+Trace:
+PersonasController::listalocalidades() - APP\Controller\PersonasController.php, line 164
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2016-06-15 12:57:50 Debug: Notice (8): Undefined variable: id in [C:\xampp\htdocs\ligamio\app\Controller\PersonasController.php, line 164]
+Trace:
+PersonasController::listalocalidades() - APP\Controller\PersonasController.php, line 164
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2016-06-15 12:57:51 Debug: Notice (8): Undefined variable: id in [C:\xampp\htdocs\ligamio\app\Controller\PersonasController.php, line 164]
+Trace:
+PersonasController::listalocalidades() - APP\Controller\PersonasController.php, line 164
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2016-06-15 13:03:19 Debug: Notice (8): Undefined variable: id in [C:\xampp\htdocs\ligamio\app\Controller\PersonasController.php, line 164]
+Trace:
+PersonasController::listalocalidades() - APP\Controller\PersonasController.php, line 164
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2016-06-15 13:03:20 Debug: Notice (8): Undefined variable: id in [C:\xampp\htdocs\ligamio\app\Controller\PersonasController.php, line 164]
+Trace:
+PersonasController::listalocalidades() - APP\Controller\PersonasController.php, line 164
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2016-06-15 13:03:28 Debug: Notice (8): Undefined variable: id in [C:\xampp\htdocs\ligamio\app\Controller\PersonasController.php, line 164]
+Trace:
+PersonasController::listalocalidades() - APP\Controller\PersonasController.php, line 164
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2016-06-15 13:13:35 Debug: Notice (8): Undefined variable: id in [C:\xampp\htdocs\ligamio\app\Controller\JugadoresController.php, line 261]
+Trace:
+JugadoresController::listalocalidades() - APP\Controller\JugadoresController.php, line 261
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2016-06-15 13:42:10 Debug: Notice (8): Undefined variable: id in [C:\xampp\htdocs\ligamio\app\Controller\JugadoresController.php, line 264]
+Trace:
+JugadoresController::listalocalidades() - APP\Controller\JugadoresController.php, line 264
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2016-06-15 13:43:04 Debug: Notice (8): Undefined variable: id in [C:\xampp\htdocs\ligamio\app\Controller\JugadoresController.php, line 264]
+Trace:
+JugadoresController::listalocalidades() - APP\Controller\JugadoresController.php, line 264
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2016-06-19 12:15:06 Debug: Notice (8): Undefined variable: id in [C:\xampp\htdocs\ligamio\app\Controller\ClubsController.php, line 244]
+Trace:
+ClubsController::listalocalidades() - APP\Controller\ClubsController.php, line 244
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2016-06-19 12:15:10 Debug: Notice (8): Undefined variable: id in [C:\xampp\htdocs\ligamio\app\Controller\ClubsController.php, line 244]
+Trace:
+ClubsController::listalocalidades() - APP\Controller\ClubsController.php, line 244
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2016-06-19 12:34:46 Debug: Notice (8): Undefined variable: id in [C:\xampp\htdocs\ligamio\app\Controller\ClubsController.php, line 244]
+Trace:
+ClubsController::listalocalidades() - APP\Controller\ClubsController.php, line 244
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2016-06-21 14:35:43 Debug: Notice (8): Undefined variable: id in [C:\xampp\htdocs\ligamio\app\Controller\PersonasController.php, line 164]
+Trace:
+PersonasController::listalocalidades() - APP\Controller\PersonasController.php, line 164
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2016-06-21 14:40:31 Debug: Notice (8): Undefined variable: id in [C:\xampp\htdocs\ligamio\app\Controller\JugadoresController.php, line 264]
+Trace:
+JugadoresController::listalocalidades() - APP\Controller\JugadoresController.php, line 264
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2016-06-21 14:40:50 Debug: Notice (8): Undefined variable: id in [C:\xampp\htdocs\ligamio\app\Controller\PersonasController.php, line 164]
+Trace:
+PersonasController::listalocalidades() - APP\Controller\PersonasController.php, line 164
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2016-06-21 14:40:51 Debug: Notice (8): Undefined variable: id in [C:\xampp\htdocs\ligamio\app\Controller\PersonasController.php, line 164]
+Trace:
+PersonasController::listalocalidades() - APP\Controller\PersonasController.php, line 164
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2016-06-21 18:10:21 Debug: Notice (8): Undefined variable: id in [C:\xampp\htdocs\ligamio\app\Controller\ClubsController.php, line 258]
+Trace:
+ClubsController::listalocalidades() - APP\Controller\ClubsController.php, line 258
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2016-06-21 18:13:50 Debug: Notice (8): Undefined variable: id in [C:\xampp\htdocs\ligamio\app\Controller\ClubsController.php, line 258]
+Trace:
+ClubsController::listalocalidades() - APP\Controller\ClubsController.php, line 258
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2016-06-21 18:13:51 Debug: Notice (8): Undefined variable: id in [C:\xampp\htdocs\ligamio\app\Controller\ClubsController.php, line 258]
+Trace:
+ClubsController::listalocalidades() - APP\Controller\ClubsController.php, line 258
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2016-06-21 18:13:54 Debug: Notice (8): Undefined variable: id in [C:\xampp\htdocs\ligamio\app\Controller\ClubsController.php, line 258]
+Trace:
+ClubsController::listalocalidades() - APP\Controller\ClubsController.php, line 258
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2016-06-21 18:29:12 Debug: Notice (8): Undefined variable: id in [C:\xampp\htdocs\ligamio\app\Controller\ClubsController.php, line 259]
+Trace:
+ClubsController::listalocalidades() - APP\Controller\ClubsController.php, line 259
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2016-06-21 18:29:13 Debug: Notice (8): Undefined variable: id in [C:\xampp\htdocs\ligamio\app\Controller\ClubsController.php, line 259]
+Trace:
+ClubsController::listalocalidades() - APP\Controller\ClubsController.php, line 259
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2016-06-21 18:34:39 Debug: Notice (8): Undefined variable: id in [C:\xampp\htdocs\ligamio\app\Controller\ClubsController.php, line 261]
+Trace:
+ClubsController::listalocalidades() - APP\Controller\ClubsController.php, line 261
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2016-06-21 18:34:39 Debug: Notice (8): Undefined variable: id in [C:\xampp\htdocs\ligamio\app\Controller\ClubsController.php, line 261]
+Trace:
+ClubsController::listalocalidades() - APP\Controller\ClubsController.php, line 261
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2016-06-21 18:36:22 Debug: Notice (8): Undefined variable: id in [C:\xampp\htdocs\ligamio\app\Controller\ClubsController.php, line 261]
+Trace:
+ClubsController::listalocalidades() - APP\Controller\ClubsController.php, line 261
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2016-06-21 18:36:28 Debug: Notice (8): Undefined variable: id in [C:\xampp\htdocs\ligamio\app\Controller\ClubsController.php, line 261]
+Trace:
+ClubsController::listalocalidades() - APP\Controller\ClubsController.php, line 261
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2016-06-21 18:43:04 Debug: Notice (8): Undefined variable: id in [C:\xampp\htdocs\ligamio\app\Controller\ClubsController.php, line 261]
+Trace:
+ClubsController::listalocalidades() - APP\Controller\ClubsController.php, line 261
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2016-06-21 18:43:05 Debug: Notice (8): Undefined variable: id in [C:\xampp\htdocs\ligamio\app\Controller\ClubsController.php, line 261]
+Trace:
+ClubsController::listalocalidades() - APP\Controller\ClubsController.php, line 261
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2016-06-21 18:54:55 Debug: Notice (8): Undefined variable: id in [C:\xampp\htdocs\ligamio\app\Controller\ClubsController.php, line 261]
+Trace:
+ClubsController::listalocalidades() - APP\Controller\ClubsController.php, line 261
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2016-06-21 19:12:31 Debug: Notice (8): Undefined variable: id in [C:\xampp\htdocs\ligamio\app\Controller\ClubsController.php, line 261]
+Trace:
+ClubsController::listalocalidades() - APP\Controller\ClubsController.php, line 261
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2016-06-23 13:50:02 Debug: Notice (8): Undefined variable: id in [C:\xampp\htdocs\ligamio\app\Controller\ClubsController.php, line 261]
+Trace:
+ClubsController::listalocalidades() - APP\Controller\ClubsController.php, line 261
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+
+2016-06-23 13:50:02 Debug: Notice (8): Undefined variable: id in [C:\xampp\htdocs\ligamio\app\Controller\ClubsController.php, line 261]
+Trace:
+ClubsController::listalocalidades() - APP\Controller\ClubsController.php, line 261
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 490
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 118
+

@@ -1,0 +1,1 @@
+<?php echo $this->Form->input('Club.localidade_id', array('options' => $lista_localidades,'label'=>'Localidad','class'=>'form-control'));?>
