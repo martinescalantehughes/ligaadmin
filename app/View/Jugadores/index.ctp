@@ -1,5 +1,6 @@
 <div class="jugadores index">
 	<div class="page-header">
+	<p>hola bebe</p>
 	<h2><?php echo __('Jugadores'); ?></h2>
 	</div>
 							<div class="container">
